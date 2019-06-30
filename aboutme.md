@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About TOBigSay
-subtitle: TOBIG'S Big Data 8th Conference _ Team TOBigSay
+title: About ToBigSay
+subtitle: TOBIG'S Big Data 8th Conference _ Team ToBigSay
 ---
 
 ## Team member
