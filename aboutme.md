@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About TOBigSay
+subtitle: TOBIG'S Big Data 8th Conference _ Team TOBigSay
 ---
 
 My name is Inigo Montoya. I have the following qualities:
