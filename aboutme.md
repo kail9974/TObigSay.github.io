@@ -4,13 +4,6 @@ title: About TOBigSay
 subtitle: TOBIG'S Big Data 8th Conference _ Team TOBigSay
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+## Team member
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+강인구 서석현 이도연 임진혁 전민규
