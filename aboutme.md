@@ -4,6 +4,7 @@ title: About ToBigSay
 subtitle: TOBIG'S Big Data 8th Conference _ Team ToBigSay
 ---
 
+
 ## Team member
 
 강인구 - ToBig's 10th        
