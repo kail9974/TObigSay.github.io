@@ -8,14 +8,24 @@ tags: [ToBigSay]
 comments: true
 ---
 
-You can write regular [markdown](http://markdowntutorial.com/) here and Jekyll will automatically convert it to a nice webpage.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](http://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+## 3 Model Description
 
-**Here is some bold text**
+**3.1 Text-to-speech system**
+use the Char2Wav architecture to generate speech using the input text
 
-## Here is a secondary heading
+
+**3.2 Keypoint generation**
+![obamanet_1]({{ site.baseurl }}/img/obamanet_1.png)
+This module predicts the representation of the mouth shape, given the audio as input.
+
+![obamanet_3]({{ site.baseurl }}/img/obamanet_3.png)
 
 
-How about a yummy crepe?
+**3.3 Video generation**
+Our motivation behind the choice of method to perform video generation is the recent success of pix2pix (Isola et al. (2016)) as a general-purpose solution for image-to-image translation problems.
+![obamanet_2]({{ site.baseurl }}/img/obamanet_2.png)
+![obamanet_4]({{ site.baseurl }}/img/obamanet_4.png)
 
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
 
+
+<small> https://arxiv.org/pdf/1801.01442 </small>
